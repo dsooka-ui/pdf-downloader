@@ -1,0 +1,24 @@
+# Paste one URL per line. Lines starting with # are ignored.
+# The script will download direct PDFs, or scan pages for .pdf links.
+
+# --- Direct PDFs ---
+https://blog.yes4youth.co.za/hubfs/Yes%20toolkit-1.pdf
+
+# --- Pages to scan for PDFs ---
+https://www.bpesa.org.za/quarterly-job-reports.html
+https://inforegulator.org.za/guidance-notes/
+https://www.harambee.co.za
+https://www.labour.gov.za/call-centre-agent
+https://mywage.co.za/women-and-work/call-centre-career
+https://shiftmate.co.za/resources/roles/call-centre-agent
+https://www.nutun.com/insights/the-impact-of-youth-employment-and-impact-sourcing-in-bpo
+https://www.zendesk.com/in/blog/qa-scorecard/
+https://www.zendesk.com/blog/customer-service/customer-success/customer-service-scorecard/
+https://www.genesys.com/blog/post/using-call-center-metrics-for-quality-assurance
+https://www.genesys.com/definitions/call-center-agent-scorecard
+https://www.genesys.com/blog/post/the-definitive-list-of-29-call-center-metrics-and-kpis
+https://www.nice.com/glossary/call-center-agent-scorecard
+https://www.nice.com/info/top-contact-center-metrics-to-boost-customer-satisfaction
+https://www.maxcontact.com/articles/a-complete-guide-to-call-centre-reporting-metrics
+https://www.mindtickle.com/blog/ai-role-play-training-contact-centers/
+https://www.ispringsolutions.com/blog/role-playing-scenarios-for-customer-service-training
